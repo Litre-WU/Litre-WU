@@ -2,7 +2,6 @@
   <img src=https://www.litre.tk/image/sidebar/avatar.jpg width=150/>
 </div>
 <br/>
-<br/>
 
 ![Litre's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Litre-WU&theme=react-dark)
 
