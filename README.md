@@ -1,4 +1,4 @@
-<img src=https://www.litre.tk/image/sidebar/avatar.jpg width=384 height=140/>
+<img src=https://www.litre.tk/image/sidebar/avatar.jpg width=250/>
 
 ![Litre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Litre-WU&show_icons=true&theme=radical)
 
