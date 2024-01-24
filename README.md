@@ -1,5 +1,5 @@
 <div align=center>
-  <img src=https://www.litre.tk/image/sidebar/avatar.jpg width=180/>
+  <img src=https://www.litre.tk/image/sidebar/avatar.jpg width=150/>
 </div>
 
 
